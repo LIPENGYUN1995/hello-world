@@ -12,3 +12,4 @@ Y=f(X)+ε εはrandom error, independent of X.
 1.3 The Trade-Off Between Prediction Accuracy and Model Interpretability（解释性）flexible（或者说是预测准确性）和interpretability不可兼得（eg最小二乘法不太flexible但很好解释） flexibility=prediction accuracy
 1.4 Supervised（监督） Versus Unsupervised Learning 监督是xy间的关系 非监督是各种x间的关系
 1.5
+2. 评估模型准确性 根据数据set选择合适的统计方法 2.1 测量fit的质量 mean squared error（MSE）均方误差  test MSE越小越好！ The degrees of freedom is a quantity that summarizes the flexibility of a curve
